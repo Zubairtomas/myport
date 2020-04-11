@@ -1,0 +1,77 @@
+html, body{
+  padding: 0px;
+  margin: 0px;
+}
+
+/* body content */
+.body-content{
+  background-color: black;
+}
+
+.left{
+  padding-top: 5vh
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+  color: white;
+}
+
+.bio{
+  color: white;
+  
+}
+
+.point{
+  color: white;
+  font-size: 20px;
+}
+
+.card-title, .card-text{
+  color: black;
+}
+
+
+/*------- Footer section ------------ */
+footer{
+  background-color: #3b2f2f ;
+}
+
+h5{
+  color: white;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 15px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 70%;
+  margin: 5px 2px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
